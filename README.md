@@ -1,4 +1,4 @@
-# SQL Injection Lab
+# SQL Injection Lab 🛡️
 
 A interactive educational tool to demonstrate SQL injection vulnerabilities in a safe environment.
 
